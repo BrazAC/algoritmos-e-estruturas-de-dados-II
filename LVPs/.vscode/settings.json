@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "LVP-04.C": "cpp"
+    }
+}
